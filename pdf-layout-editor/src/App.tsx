@@ -1,10 +1,9 @@
-import { Container } from "@mui/material";
+import EditorPage from './pages/EditorPage';
 
 function App() {
   return (
     <div>
-      App
-      <Container></Container>
+      <EditorPage />
     </div>
   );
 }
